@@ -1,4 +1,4 @@
-module github.com/bndr/gojenkins
+module github.com/The-light-of-tomorrow/gojenkins
 
 go 1.13
 
